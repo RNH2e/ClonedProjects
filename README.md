@@ -1,4 +1,4 @@
-When I first started playing Unity, I learned the general mechanics by cloning the hit games of the period in order to improve myself.
+When I first started programming in Unity, I copied the hit games of the period and learned their general mechanics in order to improve myself.
 
 ***CUBE SURFER***
 
